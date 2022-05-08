@@ -1,2 +1,3 @@
-# Qtrip
-<p> Where you call explore the Globe<p>
+#
+<h2>Qtrip</h2>
+<p> Where you can explore the Globe</p>
